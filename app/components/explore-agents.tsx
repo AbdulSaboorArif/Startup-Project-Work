@@ -30,7 +30,7 @@ const agents: Agent[] = [
     category: "NBN Agents",
     tags: ["Workflow Automation", "AI Integration"],
     image: "/workflow-automation-interface.png",
-    agentUrl: "https://n8n-grocery-agent.onrender.com/webhook/c5668935-618f-4dd1-9736-7ff49afb7a8d/chat",
+    agentUrl: "https://n8n-grocery-agent.onrender.com/webhook/8df631fb-d97e-4118-9318-6a3ebe774e32/chat",
   },
   {
     id: "3",
